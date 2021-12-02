@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>helo.dev</title>
+        <title>Helo Dev</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="Helo Dev" />
         <p className="description">
-          Helo you beautiful dev people
+          my kind of people
         </p>
       </main>
 
