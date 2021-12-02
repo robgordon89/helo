@@ -12,6 +12,9 @@ export default function Home() {
 
       <main>
         <Header title="Helo Dev" />
+        <p className="description">
+          Helo you beautiful dev people
+        </p>
       </main>
 
       <Footer />
